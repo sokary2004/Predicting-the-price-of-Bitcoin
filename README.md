@@ -21,3 +21,6 @@ This code uses the Coingecko API to get the price data for Bitcoin over the past
 
 i wish some buddy complete this code
 
+
+Donations : bc1q962duatv26hzw080uxu65damn06l5pgsdnx6lt
+
